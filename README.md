@@ -13,9 +13,9 @@ Once the react app is created we can see three new files namely
 - tsconfig.test.json
 - tslint.json
 
-### Documentation Link:
+### Documentation Link: https://goo.gl/uAm7Y8
 ### Flow Link: https://goo.gl/Ki4nFD
-#### Demo Link:
+#### Demo Link: https://friendlychat-eaac3.firebaseapp.com/
 #### Blog:  https://www.carlrippon.com/building-react-form-component-typescript-basics/
 
 > Error: TypesScript warning : Use an interface instead of a type literal.  I:
